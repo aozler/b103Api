@@ -82,3 +82,4 @@ public class S1Post extends HerOkuAppBaseUrl {
 
     }
 }
+
